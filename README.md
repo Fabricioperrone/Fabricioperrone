@@ -5,7 +5,7 @@
 
 
 
-- 🔭 Atualmente busco uma vaga de  trabalho com analista de testes Jr/QA
+- 🔭 Atualmente busco uma vaga de  trabalho como analista de testes Jr/QA
 - 🌱 Estudando testes automatizados (Cypress) e Java.
 
 
