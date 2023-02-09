@@ -6,7 +6,7 @@
 
 
 - 🔭 Atualmente busco uma vaga de  trabalho como analista de testes Jr/QA
-- 🌱 Estudando testes automatizados (Cypress) e Java.
+- 🌱 Estudando, início rápido teste QA | BDD com Cumcumber em Java  |Testes exploratórios | Java.
 
 
 >
