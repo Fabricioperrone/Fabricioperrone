@@ -5,8 +5,9 @@
 
 
 
-- 🔭 Atualmente busco uma oportunidade de  trabalho como analista de testes Jr/QA
-- 🌱 BDD com Cumcumber em Java  | Testes exploratórios | Java.
+- 🔭 Atualmente busco uma oportunidade de  trabalho como analista de testes e Qualidade de Sistema /QA
+- 🌱 BDD com Cumcumber em Java  | Testes exploratórios | Java | Me especializando em Cypress
+
 
 
 
