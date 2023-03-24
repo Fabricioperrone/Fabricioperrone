@@ -2,12 +2,9 @@
 
 
 
-Git em manutenção!!! 
-Para melhorias... Obrigado por visitar...
-
 
 - 🔭 Atualmente busco uma oportunidade de  trabalho como Analista de Testes e Qualidade de Sistema /QA
-- 🌱 BDD com Cumcumber em Java  | Testes exploratórios | Java | Me especializando em Cypress
+- 🌱 Especializando-se em Javascript | Cypress | Automação de testes
 
 <div align="center">
   <a href="https://github.com/Fabricioperrone">
