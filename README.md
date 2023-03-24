@@ -2,7 +2,8 @@
 
 
 
-
+Git em manutenção!!! 
+Para melhorias... Obrigado por visitar...
 
 
 - 🔭 Atualmente busco uma oportunidade de  trabalho como Analista de Testes e Qualidade de Sistema /QA
