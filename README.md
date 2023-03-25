@@ -1,6 +1,6 @@
 ### Olá!Eu sou o Fabrício Perrone 👋
 
-
+Github em manutenção!
 
 
 - 🔭 Atualmente busco uma oportunidade de  trabalho como Analista de Testes e Qualidade de Sistema /QA
