@@ -1,6 +1,5 @@
 ### Olá!Eu sou o Fabrício Perrone 👋
 
-Github em manutenção!
 
 
 - 🔭 Atualmente busco uma oportunidade de  trabalho como Analista de Testes e Qualidade de Sistema /QA
@@ -8,7 +7,7 @@ Github em manutenção!
 
 <div align="center">
   <a href="https://github.com/Fabricioperrone">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true)"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true&theme=radical&include_all_commits=true&count_private=true](https://github-readme-stats.vercel.app/api?username=Fabricioperrone&show_icons=true)" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fabricioperrone&layout=compact&langs_count=7&theme=radical"/>
     
 </div>
