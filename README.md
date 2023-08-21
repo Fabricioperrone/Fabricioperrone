@@ -1,8 +1,18 @@
-### Olá!Eu sou o Fabrício Perrone 👋
+## Olá!Eu sou o Fabrício Perrone 👋
 
 
-- 🔭 Atualmente busco uma oportunidade de  trabalho como Analista de Testes e Qualidade de Sistema /QA
-- 🌱 Especializando-se em Javascript | Cypress | Automação de testes
+### 🐞 Analista de Testes com experiência desde 2019, especializado em:
+- Testes manuais;
+- Testes de regressão;
+- Testes de Integração
+- Testes de compatibilidade, casos de teste e cenários de testes.
+- Proficiente em automação de testes, SQL e testes funcionais, teste de API.
+
+    Habilidade em trabalhar com banco de dados, gerenciamento de massa de dados e garantia de qualidade. 
+    Focado em garantir a entrega de software de alta qualidade, identificando e solucionando problemas com precisão. 
+    Busco oportunidades para impulsionar a excelência nos resultados.
+  
+🐞 Especializando-se em Javascript | Cypress | Automação de testes
 
 <div align="center">
   <a href="https://github.com/Fabricioperrone">
