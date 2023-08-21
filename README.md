@@ -26,11 +26,14 @@
   <img align="center" alt="Fabricio-postman" height="30" width"30" 
 src="https://camo.githubusercontent.com/6b3fa9c81cf0e9ab62d8459f58cc160b2a458baa4411a26e5f7eaa9657e05bc5/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f706f73746d616e2e737667" />
 <img align="center" alt="Fabricio-cypress" height="30" width"30" 
-src="https://raw.githubusercontent.com/simple-icons/simple-icons/6e46ec1fc23b60c8fd0d2f2ff46db82e16dbd75f/icons/cypress.svg" />
+src="https://yt3.googleusercontent.com/iD0oePTGV8tZwEEP_WEG2rvyNiQAVfmjhawFMCj17ARjjmw-J70k9NDjSE5QTzD9Vk3ayBU=s176-c-k-c0x00ffffff-no-rj" />
 <img align="center" alt="Fabricio-swagger" height="30" width"30" 
 src="https://camo.githubusercontent.com/96e43701d83561899724a89d71187445b7b8f4fe84518a3ea5bec8f85bd207bf/68747470733a2f2f63646e2e737667706f726e2e636f6d2f6c6f676f732f737761676765722e737667" />
 <img align="center" alt="Fabricio-K6" height="30" width"30" 
 src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/K6-logo.svg/1058px-K6-logo.svg.png" />
+<img align="center" alt="Fabricio-Robot-framework" height="30" width"30" 
+src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*Gt2wknIMvc3P0KFadp1mlQ.png" />
+
 
 
 
