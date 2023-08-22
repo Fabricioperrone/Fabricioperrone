@@ -1,4 +1,4 @@
-## Olá!Eu sou o Fabrício Perrone 👋
+## Olá! Eu sou o Fabrício Perrone 👋
 
 
 ### 🐞 Analista de Testes com experiência desde 2019, especializado em:
