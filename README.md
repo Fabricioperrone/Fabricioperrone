@@ -6,7 +6,8 @@
 - Testes de regressão;
 - Testes de Integração
 - Testes de compatibilidade, casos de teste e cenários de testes.
-- Proficiente em automação de testes, SQL e testes funcionais, teste de API.
+- Entusiasta em automação de testes.
+- SQL, testes funcionais, teste de API.
 
     Habilidade em trabalhar com banco de dados, gerenciamento de massa de dados e garantia de qualidade. 
     Focado em garantir a entrega de software de alta qualidade, identificando e solucionando problemas com precisão. 
