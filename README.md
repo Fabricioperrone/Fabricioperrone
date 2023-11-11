@@ -65,7 +65,7 @@
 <a href="https://github.com/Fabricioperrone" target="_blank"><img src="https://img.shields.io/badge/Portfolio-2C8BBF?style=for-the-badge&logo=p&logoColor=white"></a>
 <a href="mailto:fabricio_luis@outlook.com" target="_blank"><img src="https://img.shields.io/badge/Outlook-2C8BBF?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/fabricioperrone-qa/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-2C8BBF?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<!--<a href="https://contate.me/christopherqa" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-A20D02?style=for-the-badge&logo=whatsapp&logoColor=white">--></a>
+<a href="https://contate.me/Fabricioperrone" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-2C8BBF?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
 </div>
 
 #
